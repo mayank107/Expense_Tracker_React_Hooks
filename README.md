@@ -1,6 +1,13 @@
-Please check out the project at below link :
+Expense Tracker (React)
+It uses functional components with hooks and the context API
 
-https://mayank107.github.io/Expense_Tracker_React_Hooks/
+Usage
+npm install
 
+# Run on http://localhost:3000
+npm start
+
+# Build for prod
+npm run build
 
 courtesy:Travesty Media
