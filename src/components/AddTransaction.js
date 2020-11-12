@@ -11,7 +11,7 @@ export const AddTransaction = () => {
       e.preventDefault();
 
       const newTransaction={
-        id: Math.floor(Math.random()*100000000),
+        id: Math.floor(Math.random()*100000000), //uuid can also be used to generate id
         text,
         amount:+amount
       }
